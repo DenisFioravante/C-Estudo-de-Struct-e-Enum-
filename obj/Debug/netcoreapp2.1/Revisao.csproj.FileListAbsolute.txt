@@ -1,0 +1,11 @@
+D:\Denis\Revisao\bin\Debug\netcoreapp2.1\Revisao.deps.json
+D:\Denis\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.json
+D:\Denis\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.dev.json
+D:\Denis\Revisao\bin\Debug\netcoreapp2.1\Revisao.dll
+D:\Denis\Revisao\bin\Debug\netcoreapp2.1\Revisao.pdb
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.csprojAssemblyReference.cache
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfoInputs.cache
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfo.cs
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.dll
+D:\Denis\Revisao\obj\Debug\netcoreapp2.1\Revisao.pdb
